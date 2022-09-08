@@ -1,0 +1,15 @@
+/** Randisoft Financial Planner Tithing web app **/
+
+* Authenticating system
+* Previously calculated records
+* Daily entries of income to generate 10% at the end of a period of time
+* Include Budget planning functions just after the income has been entered. Expenses ahead
+* Total expense for the year, income and tithe
+* Basic calculator
+* Name: Randisoft Financial Planner
+
+
+/** Talk Dropbox **/
+* Name: Silent note taking
+
+

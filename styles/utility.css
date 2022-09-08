@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --main-bg: #385170;
+    --main-text: #ffffff;
+}
+
+body{
+    background: var(--main-bg);
+    overflow: hidden;
+    height: 100vh;
+    /* width: 100vw; */
+}
+
+.button {
+    padding: 10px;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+}
+
+.container {
+    /* width: 100%; */
+    padding: 20px;
+}
+
+input {
+    padding: 10px;
+    width: 100%;
+    margin: 20px 0 10px 0;    
+    border: none;
+    border-bottom: 1px solid #999;
+}
+
+input:focus {
+    border-bottom: 1px solid rgb(252, 150, 120);
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 500px;
+}
